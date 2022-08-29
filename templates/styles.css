@@ -1,0 +1,20 @@
+.masterhead {
+    height: 75vh;
+    min-height: 500px;
+    background-image: url('Mars From Space.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+
+#vpadding {
+    padding: 25% 0;
+}
+
+
+#scale_id {
+    width: 500px;
+    height: 500px;
+    object-fit: fill;
+}
